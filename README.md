@@ -15,7 +15,9 @@ VirtualBox environment to simulate real-world SOC detection scenarios.
 
 ## Labs Completed
 - Day 1: Network Reconnaissance Detection (Nmap)
-- Day 2: Web Enumeration Detection (Gobuster, Nikto) [In Progress]
+- Day 2: Web Enumeration Detection (Gobuster, Nikto)
+- Day 3: Suspicious Login & Privilege Escalation Detection
+- Day 4: SSH Brute-Force Detection & Authentication Log Analysis
 
 ## Skills Demonstrated
 - Network traffic analysis
